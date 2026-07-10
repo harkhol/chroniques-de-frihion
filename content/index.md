@@ -1,43 +1,68 @@
 # Les Archives de Frihion
 
-> *"Le monde oublie. Les Archives se souviennent."*
+> *« Le monde oublie. Les Archives se souviennent. »*
 
-Bienvenue dans les **Chroniques de Frihion**.
+Bienvenue dans les **Archives de Frihion**.
 
-Ce site rassemble l'histoire, les peuples, les royaumes, les divinités et les légendes du monde de Frihion.
+Vous tenez entre vos mains les chroniques d'un monde façonné par les dieux, les royaumes, les guerres et les légendes.
 
----
+Chaque page rassemble un fragment de son histoire. Ensemble, elles composent la mémoire vivante de Frihion.
 
-## 🧭 Commencer l'exploration
+Prenez le temps d'explorer, de découvrir et de relier les événements entre eux.
 
-### ⚜ Divinités
-Les dieux, leurs cultes et leurs influences.
-
-### 🛡 Factions
-Les royaumes, ordres et puissances politiques.
-
-### 👤 Personnages
-Les héros, souverains et figures marquantes.
-
-### 🏰 Lieux
-Les villes, continents et régions.
-
-### ❓ Mystères
-Secrets, prophéties et énigmes.
-
-### 📜 Événements
-Les grands événements de l'histoire.
+Les Archives vous sont désormais ouvertes.
 
 ---
 
-## 📱 Navigation
+# 🧭 Commencer l'exploration
+
+## ⚜ Divinités
+
+Les dieux, leurs cultes et les forces qui influencent le destin du monde.
+
+---
+
+## 🛡 Factions
+
+Royaumes, empires, ordres et puissances qui façonnent l'histoire.
+
+---
+
+## 👤 Personnages
+
+Héros, souverains, aventuriers et figures légendaires.
+
+---
+
+## 🏰 Lieux
+
+Continents, cités, ruines et régions de Frihion.
+
+---
+
+## 📜 Chronologie
+
+Les grands événements qui ont marqué les âges.
+
+---
+
+## ❓ Mystères
+
+Secrets, prophéties et phénomènes encore inexpliqués.
+
+
+---
+
+# 📱 Navigation
 
 💻 **Ordinateur**
 
-Utilisez le menu situé à gauche pour parcourir les Archives.
+Utilisez le menu situé à gauche pour parcourir les différentes catégories des Archives.
 
 📱 **Téléphone**
 
-Appuyez sur le bouton ☰ en haut de la page pour ouvrir le menu.
+Touchez le bouton **☰** situé en haut de l'écran pour ouvrir le menu de navigation.
 
-Bonne exploration.
+---
+
+> *« Chaque page est une mémoire. Chaque mémoire est une histoire. »*

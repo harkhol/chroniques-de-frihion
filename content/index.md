@@ -2,67 +2,80 @@
 
 > *« Le monde oublie. Les Archives se souviennent. »*
 
-Bienvenue dans les **Archives de Frihion**.
+---
 
-Vous tenez entre vos mains les chroniques d'un monde façonné par les dieux, les royaumes, les guerres et les légendes.
+## Bienvenue, âme curieuse.
 
-Chaque page rassemble un fragment de son histoire. Ensemble, elles composent la mémoire vivante de Frihion.
+Si ces portes se sont ouvertes devant vous, ce n'est sans doute pas un hasard.
 
-Prenez le temps d'explorer, de découvrir et de relier les événements entre eux.
+Les Archives de Frihion rassemblent les récits des royaumes, les mémoires oubliées, les divinités, les peuples et les mystères qui ont façonné ce monde au fil des siècles.
 
-Les Archives vous sont désormais ouvertes.
+Vous n'y trouverez pas seulement des réponses.
+
+Vous y trouverez aussi des questions.
+
+Car chaque registre ouvre la voie vers un autre.
+
+Chaque découverte en appelle une nouvelle.
+
+Prenez place.
+
+Le feu est encore chaud.
+
+Les Archives sont ouvertes.
 
 ---
 
-# 🧭 Commencer l'exploration
+# Commencer l'exploration
 
-## ⚜ Divinités
+⚜ **Divinités**
 
-Les dieux, leurs cultes et les forces qui influencent le destin du monde.
-
----
-
-## 🛡 Factions
-
-Royaumes, empires, ordres et puissances qui façonnent l'histoire.
+Comprendre les puissances qui influencent encore le destin du monde.
 
 ---
 
-## 👤 Personnages
+🛡 **Factions**
 
-Héros, souverains, aventuriers et figures légendaires.
-
----
-
-## 🏰 Lieux
-
-Continents, cités, ruines et régions de Frihion.
+Découvrir les royaumes, les peuples et les ordres qui façonnent Frihion.
 
 ---
 
-## 📜 Chronologie
+👤 **Personnages**
 
-Les grands événements qui ont marqué les âges.
-
----
-
-## ❓ Mystères
-
-Secrets, prophéties et phénomènes encore inexpliqués.
-
+Rencontrer celles et ceux dont les choix ont laissé une empreinte dans l'Histoire.
 
 ---
 
-# 📱 Navigation
+🏰 **Lieux**
 
-💻 **Ordinateur**
-
-Utilisez le menu situé à gauche pour parcourir les différentes catégories des Archives.
-
-📱 **Téléphone**
-
-Touchez le bouton **☰** situé en haut de l'écran pour ouvrir le menu de navigation.
+Parcourir les cités, les forteresses, les villages et les terres oubliées.
 
 ---
 
-> *« Chaque page est une mémoire. Chaque mémoire est une histoire. »*
+📜 **Chronologie**
+
+Suivre les grandes ères et les événements qui ont changé le monde.
+
+---
+
+❖ **Mystères**
+
+Certaines pages n'apportent pas de réponses.
+
+Elles invitent simplement à chercher davantage.
+
+---
+
+# Avant de partir...
+
+💻 **Sur ordinateur**
+
+Le menu des Archives se trouve dans la colonne de gauche.
+
+📱 **Sur téléphone**
+
+Touchez le symbole **☰** situé en haut de l'écran.
+
+---
+
+> *« Une âme curieuse ne quitte jamais les Archives avec moins de questions qu'à son arrivée. »*

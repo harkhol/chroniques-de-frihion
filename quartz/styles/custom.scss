@@ -603,3 +603,22 @@ article h3 {
 article h3::after {
   content: none;
 }
+
+/* ==========================================
+   Correction du menu mobile
+========================================== */
+
+@media (max-width: 800px) {
+  .left.sidebar {
+    overflow: visible !important;
+  }
+
+  .left.sidebar .explorer {
+    overflow: visible !important;
+  }
+
+  .left.sidebar .explorer-content {
+    position: relative;
+    z-index: 1000;
+  }
+}
